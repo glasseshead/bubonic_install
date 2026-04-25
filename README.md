@@ -4,9 +4,9 @@ Made for use with Arson, Yaay! architectures and Plague? Where? by David
 
 Thanks Zachary from 5776K; Kabir & Norrel from 5776A; Jerry from CMAA
 
-<img src="img/bubo_code.png" height="300">
-<img src="img/bubo_path1.png" height="300">
-<img src="img/bubo_path2.png" height="300">
+<img src="bubo_code.png" height="300">
+<img src="bubo_path1.png" height="300">
+<img src="bubo_path2.png" height="300">
 
 ## Usage
 When you first install Bubonic from this link:
