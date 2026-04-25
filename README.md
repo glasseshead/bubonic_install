@@ -11,7 +11,7 @@ Thanks Zachary from 5776K; Kabir & Norrel from 5776A; Jerry from CMAA
 ## Usage
 When you first install Bubonic from this link:
 
-[https://github.com/glasseshead/bubonic_setup](https://github.com/glasseshead/bubonic_setup)
+[https://github.com/glasseshead/bubonic_install](https://github.com/glasseshead/bubonic_install)
 
 You should recieve a .zip file in either `Downloads` or your specified file location. 
 
